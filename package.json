@@ -1,0 +1,21 @@
+{
+  "name": "hand-it-down",
+  "version": "1.0.0",
+  "description": "Hand It Down - Peer-to-Peer College Book and Semester Gear Buy/Rent Marketplace",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "college",
+    "marketplace",
+    "textbooks",
+    "drafting-tools",
+    "calculators",
+    "peer-to-peer",
+    "escrow"
+  ],
+  "author": "Hand It Down Open Platform",
+  "license": "MIT"
+}
